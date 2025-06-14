@@ -74,7 +74,7 @@ _No need to install Python, Node.js, or additional frameworks._
 
 ### 💻 Run from GitHub
 ```bash
-git clone https://github.com/yourusername/Karma
+git clone https://github.com/swampfr/Karma
 cd Karma
 Karma.bat
 
