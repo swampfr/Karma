@@ -1,4 +1,3 @@
-<img align="center" src="https://i.ibb.co/CKNhsSx0/image.png" width="80%">
 
 <h1 align="center">Karma - CMD MultiTool</h1>
 
@@ -55,7 +54,7 @@
 <h1 align="center">🖼 Preview</h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/3TGvRn9/karma-preview.png" width="80%">
+  <img src="https://i.ibb.co/jP13mdKW/image.png" width="80%">
 </p>
 
 ---
