@@ -77,3 +77,6 @@ _No need to install Python, Node.js, or additional frameworks._
 git clone https://github.com/yourusername/Karma
 cd Karma
 Karma.bat
+
+
+Or download the exe from the release page
